@@ -1,2 +1,2 @@
 # FriendsList
- List with random users
+ List with random users for Android
